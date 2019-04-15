@@ -1,0 +1,4 @@
+Wybór projektu:
+Gra w wisielca,
+jêzyk C,
+IDE: Dev-CPP
