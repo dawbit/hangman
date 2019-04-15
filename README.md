@@ -1,3 +1,3 @@
 # hangman
-![Hangman](https://github.com/dawbit/hangman/hangman.JPG)
+![Hangman](https://raw.githubusercontent.com/dawbit/hangman/master/hangman.JPG)
 I semestr project - C - hangman game 
