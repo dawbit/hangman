@@ -19,7 +19,7 @@ Just run the **hangman.exe** file mentioned above.
 ## Built With
 
 **[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)** - IDE used.
-**[TDM-GCC MinGW] (https://sourceforge.net/projects/tdm-gcc/files/TDM-GCC%20Installer/)** - Compiler.
+**[TDM-GCC MinGW](https://sourceforge.net/projects/tdm-gcc/files/TDM-GCC%20Installer/)** - Compiler.
 
 ## Authors
 
